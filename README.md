@@ -1,5 +1,5 @@
 # spaniardstosv
-Welcome to SpaniardsToSiliconValley solutions! These are the solutions to our problems in the recommended <a href:"www.spaniardstosv.org/coursework.html">coursework</a>
+Welcome to SpaniardsToSiliconValley solutions! These are the solutions to our problems in the recommended www.spaniardstosv.org/coursework.html
 
 **You should not be looking into these, unless you are really really stuck** (No hagas trampas!) 
 
