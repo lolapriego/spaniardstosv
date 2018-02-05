@@ -1,10 +1,8 @@
 # spaniardstosv
-Solutions to the exercises in the Guide
+Welcome to SpaniardsToSiliconValley solutions! These are the solutions to our problems in the recommended <a href:"www.spaniardstosv.org/coursework.html">coursework</a>
 
-Welcome to SpaniardsToSiliconValley solutions!
+**You should not be looking into these, unless you are really really stuck** (No hagas trampas!) 
 
-Find here the solutions to the exercises proposes.
-
-**You should not be looking into these, unless you are really really stuck** No hagas trampas :P 
-
-Feel free to shoot us a message in our Facebook page in you are having troubles understanding any of these solutions
+## Notes
+- Feel free to shoot us a message in our Facebook page in you are having troubles understanding any of these solutions
+- These solutions are writen in Java, but you will be able to use your language of preference for the code challenge
