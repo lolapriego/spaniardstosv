@@ -7,6 +7,9 @@ import java.util.regex.*;
 public class Solution {
 
     static int migratoryBirds(int n, int[] ar) {
+        if (n == 0) {
+            return 1;
+        }
         int [] counters = new int[5];
         for (int i = 0; i < n; i++) {
             counters[ar[i] - 1]++;
@@ -15,7 +18,7 @@ public class Solution {
         //last one, recuerda que solo hay 5 tipos. El index del tipo5, es 4.
         int maxType = 5;
         for (int i = 4; i >= 0; i--) {
-            if (counters[i] > max) {
+            if (counters[i] >= max) {
                 max = counters[i];
                 maxType = i + 1;
             }
