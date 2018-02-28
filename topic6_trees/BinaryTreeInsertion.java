@@ -1,17 +1,18 @@
 /* Node is defined as :
 class Node
-   int data;
-   Node left;
-   Node right;
+    int data;
+    Node left;
+    Node right;
 
-   */
+    */
+
 static Node Insert(Node root,int value) {
       if (root == null) {
           Node newTree = new Node();
           newTree.data = value;
           return newTree;
       }
-   insertNodeResursive(root);
+   insertNodeRecursive(root, value);
    return root;
 }
 
